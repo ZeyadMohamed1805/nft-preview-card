@@ -1,0 +1,9 @@
+/** Fonts **/
+
+/* Outfit Variable Font */
+@font-face {
+	font-family: var(--font-family-outfit);
+	src: url("../../../assets/fonts/outfit/Outfit-VariableFont_weight.ttf") format("truetype");
+	font-weight: 300, 400, 600;
+	font-style: normal;
+}

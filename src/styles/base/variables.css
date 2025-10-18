@@ -1,0 +1,22 @@
+/** Variables **/
+
+:root {
+	/* Color Variables */
+	--white-color: hsl(0, 0%, 100%);
+	--accent-one-color: hsl(217, 54%, 11%);
+	--accent-two-color: hsl(216, 50%, 16%);
+	--accent-three-color: hsl(215, 32%, 27%);
+	--secondary-color: hsl(178, 100%, 50%);
+	--primary-color: hsl(215, 51%, 70%);
+
+	/* Font Size Variables */
+	--font-size: 18px;
+
+	/* Font Family Variables */
+	--font-family-outfit: "Outfit", sans-serif;
+
+	/* Font Weight Variables */
+	--font-weight-thin: 300;
+	--font-weight-regular: 400;
+	--font-weight-semibold: 600;
+}
